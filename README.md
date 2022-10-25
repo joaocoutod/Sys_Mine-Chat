@@ -4,7 +4,7 @@ O arquivo para criação do banco e tabelas: `Sys_Mine-Chat/DB/chat.sql`
 
 <hr>
 
-o banco de dados pode ser configurado nesse arquivo: `Sys_Mine-Chat/app/config.php`
+O banco de dados pode ser configurado em: `Sys_Mine-Chat/app/config.php`
 
 ```php
 $db_host = "localhost";
