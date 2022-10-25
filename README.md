@@ -1,6 +1,6 @@
-# Sys_Mine-Chat
+# chat
 
-o banco de dados pode ser configurado nesse arquivo `Sys_Mine-Chat/DB/db.sql`
+o banco de dados pode ser configurado nesse arquivo `Sys_Mine-Chat/app/config.php`
 
 ```php
 $db_host = "localhost";
