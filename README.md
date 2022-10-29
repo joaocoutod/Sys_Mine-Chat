@@ -1,3 +1,7 @@
+# preview
+
+<img src="https://raw.githubusercontent.com/joaocoutod/Sys_Mine-Chat/main/lib/img/info.png" alt="info">
+
 # Informações importantes
 
 O arquivo para criação do banco e tabelas: `Sys_Mine-Chat/DB/chat.sql`
