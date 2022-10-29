@@ -1,4 +1,4 @@
-# chat
+# Informações importantes
 
 O arquivo para criação do banco e tabelas: `Sys_Mine-Chat/DB/chat.sql`
 
